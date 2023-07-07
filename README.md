@@ -1,4 +1,3 @@
-# OCTANET_JULY
+# OCTANET_JULY 
+my first project/tas--> #Amazon lending page.
 https://vijay-pankaj.github.io/OCTANET_JULY/
-#Amazon lending page
-my first project/task a lending page. 
